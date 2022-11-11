@@ -3,3 +3,5 @@ class Demo1{
  
   }
 }
+
+//bug 100
